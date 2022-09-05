@@ -1,2 +1,2 @@
 # project_euler
-This is about solving the problems using different algorithms of the euler project 
+This is some of my own solutions of the euler project problems using different algorithms .
