@@ -1,6 +1,5 @@
 '''This problem 1 from Project Euler '''
 '''This is my solution .'''
-#This is a comment !
 #To plot the time consumed while making calculations with the two functions
 import matplotlib.pyplot as plt
 import numpy as np 
